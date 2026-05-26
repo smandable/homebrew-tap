@@ -1,6 +1,6 @@
 cask "saddle" do
   version "1.4"
-  sha256 "55eead7c5f1cfe25837fbb17fe3eccedd59187339415f15fe02b648314578d59"
+  sha256 "12c6f1e087c28050d139372a872a376cd76c70a7de075c74526c7ea9bdbd333a"
 
   url "https://github.com/smandable/Saddle/releases/download/v#{version}/Saddle-#{version}.dmg"
   name "Saddle"
